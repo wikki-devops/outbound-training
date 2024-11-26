@@ -1,0 +1,59 @@
+.header .logo img {
+    max-height: 80px !important;
+}
+
+.btn {
+    background-color: #233579 !important;
+    color: white !important;
+}
+
+.btn:hover {
+    background-color: #fdb712 !important;
+    color: black !important;
+}
+
+.hero .company-badge {
+    background-color: white;
+}
+
+.hero .hero-content h1 .accent-text {
+    color: #fdb712;
+}
+
+.contact-form .btn {
+    background: white !important;
+    color: black !important;
+}
+
+.contact-form .btn:hover {
+    background: none !important;
+    border: 1px solid white !important;
+    color: white !important;
+}
+
+.footer .footer-about .logo img {
+    max-height: 140px;
+}
+
+.footer .footer-contact p {
+    font-size: 20px;
+}
+
+.about .about-description {
+    font-size: 18px;
+}
+
+.hero .stat-item .stat-icon {
+    width: 100px;
+    height: 100px;
+}
+
+.hero .stat-item .stat-content h4 {
+    font-size: 50px;
+}
+.hero .stat-item .stat-content p {
+    font-size: 18px;
+    color: black;
+    margin: 0;
+    font-weight: 600;
+}
