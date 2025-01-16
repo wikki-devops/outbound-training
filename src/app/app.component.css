@@ -1,5 +1,9 @@
 .header .logo img {
-    max-height: 80px !important;
+    max-height: 60px !important;
+}
+
+.header .header-container {
+    padding: 15px 25px;
 }
 
 .btn {
@@ -51,9 +55,25 @@
 .hero .stat-item .stat-content h4 {
     font-size: 50px;
 }
+
 .hero .stat-item .stat-content p {
     font-size: 18px;
     color: black;
     margin: 0;
     font-weight: 600;
+}
+
+.features-2 .phone-mockup {
+    padding: 0px !important;
+}
+
+.hero .stat-item {
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    padding: 0px;
+}
+
+.about{
+    padding: 50px !important;
 }
